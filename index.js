@@ -2,7 +2,7 @@ var path = require('path');
 
 module.exports = {
   getPoFilePath: function(poFile, locale) {
-  	return path.join(__dirname, 'po-files', locale || '', poFile || '')
+  	return path.join(__dirname, 'strings', locale || '', poFile || '')
   },
 
   getEmailTemplatePath: function (emailTemplateCode) {

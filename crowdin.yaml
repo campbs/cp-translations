@@ -3,9 +3,9 @@ project_identifier: zen-community-platform
 base_path: .
 files:
   -
-    source: '/po-files/en_US/messages.po'
+    source: '/strings/en_US/messages.po'
     dest: '/messages.po'
-    translation: '/po-files/%locale_with_underscore%/%original_file_name%'
+    translation: '/strings/%locale_with_underscore%/%original_file_name%'
 
   -
     source: '/email-templates/auth-create-reset-en_US/users-auth-create-reset.text.ejs'
