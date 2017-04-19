@@ -9,7 +9,8 @@ git config --global user.email "webteam@coderdojo.com"
 git config --global user.name "CoderDojo Foundation"
 
 # Configure NPM
-echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" >> ~/.npmrc
+echo "_auth=$NPM_TOKEN" >> ~/.npmrc
+echo "email=webteam@coderdojo.com" >> ~/.npmrc
 
 # Crowdin
 crowdin-cli upload sources
