@@ -1623,8 +1623,11 @@ msgstr "Mentor/Volunteer"
 msgid "Champion"
 msgstr "Champion"
 
-msgid "Term"
-msgstr "Term"
+msgid "recurring"
+msgstr "Recurring"
+
+msgid "one-off"
+msgstr "One off"
 
 msgid "Select event date..."
 msgstr "Select event date..."
