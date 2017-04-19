@@ -3330,3 +3330,10 @@ msgid "Your child %1s has a new message from %2s Dojo:"
 msgid_plural "Your children %1s have a new message from %2s Dojo:"
 msgstr[0] "Your child %1s has a new message from %2s Dojo:"
 msgstr[1] "Your children %1s have a new message from %2s Dojo:"
+
+msgid "{{ numAttendees }} Attendees"
+msgstr "{{ numAttendees }} Attendees"
+
+msgid "{{ numMentors }} Mentors"
+msgstr "{{ numMentors }} Mentors"
+
