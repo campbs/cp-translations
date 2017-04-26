@@ -1,9 +1,10 @@
 <% include ../common-en_US/header.ejs %>
 <!-- MAIN CONTENT GOES HERE -->
 
-  <h1>Hi <%= applicantName %>,</h1>
+  <h1>Hi <%= dojoName %>,</h1>
 
-<p><%= intro %></p>
+  <p>This is a notification to let you know that a ticket request for <b><%= event.name %></b> has been made and is pending approval.</p>
+
   <h3>Order Summary</h3>
   <p> - Date: <%= applicationDate %></p>
   <p> - Session: <%= sessionName %></p>

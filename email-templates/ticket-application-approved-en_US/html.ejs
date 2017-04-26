@@ -3,7 +3,7 @@
 
   <h1>Hi <%= applicantName %>,</h1>
 
-  <p>This is your order confirmation for <b><%= event.name %></b> at <%= dojo.name %></p>
+  <p><%= intro %></p>
 
   <h3>Order Summary</h3>
   <p> - Date: <%= applicationDate %></p>
@@ -23,21 +23,21 @@
         </tr>
       <% } %>
     </tbody>
-  </table>    
+  </table>
 
   <p>Status: <%= status %></p>
-  
+
   <h3>About this event</h3>
   <p> - Event date: <%= eventDate %></p>
   <p> - Event address: <%= event.address %></p>
 
   <p>
-    If you are unable to attend this event, please click this link to cancel your booking: 
+    If you are unable to attend this event, please click this link to cancel your booking:
     <a href="<%= cancelLinkBase + '/' + event.id + '/' + applicationId %>"><%= cancelLinkBase + '/' + event.id + '/' + applicationId %></a>
   </p>
 
   <p>If you have any questions about the event in advance please contact the Dojo directly at <b><%= dojo.email %></b></p>
-  
+
   <p>Best wishes,</br>
   The CoderDojo Foundation Team</p>
 

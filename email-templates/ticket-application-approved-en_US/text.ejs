@@ -1,7 +1,7 @@
 
   Hi <%= applicantName %>,
 
-  This is your order confirmation for <%= event.name %> at <%= dojo.name %>
+  <%= intro %>
 
   Order Summary
   - Date: <%= applicationDate %>
@@ -9,10 +9,10 @@
     Name     Type     Quantity
     <% for(var i=0; i<tickets.length; i++) { %>
       <%= tickets[i].ticketName %> <%= tickets[i].ticketType %> <%= tickets[i].quantity %>
-    <% } %>   
+    <% } %>
 
   Status: <%= status %>
-  
+
   About this event
   - Event date: <%= eventDate %>
   - Event address: <%= event.address %>
