@@ -1863,6 +1863,12 @@ msgstr "This is important as it will allow multiple people to assist in overseei
 msgid "Set up social media presence for your Dojo. e.g. Facebook, Twitter"
 msgstr "Set up social media presence for your Dojo. e.g. Facebook, Twitter"
 
+msgid "Your event %1$s has a person who needs approval"
+msgstr "Your event %1$s has a person who needs approval"
+
+msgid "Your event %1$s has been booked"
+msgstr "Your event %1$s has been booked"
+
 msgid "Learn how to connect with other Dojos on social media and the <a href=\"https://forums.coderdojo.com\">CoderDojo discussion forums</a>"
 msgstr "Learn how to connect with other Dojos on social media and the <a href=\"https://forums.coderdojo.com\">CoderDojo discussion forums</a>"
 
@@ -3363,6 +3369,12 @@ msgstr "This is your order confirmation for the below event."
 
 msgid "Your ticket has been cancelled for the below event."
 msgstr "Your ticket has been cancelled for the below event."
+
+msgid "The ticket status for your child for %1$s has been changed from approved to pending"
+msgstr "The ticket status for your child for %1$s has been changed from approved to pending"
+
+msgid "Your ticket status for %1$s has been changed from approved to pending"
+msgstr "Your ticket status for %1$s has been changed from approved to pending"
 
 msgid "This is a notification to let you know that a request for a ticket for the below event has been received for your child %1s. Once the request has been approved they will receive their ticket confirmation by email."
 msgid_plural "This is a notification to let you know that requests for tickets for the below event have been received for your children %1s. Once the requests has been approved they will receive their ticket confirmations by email."
