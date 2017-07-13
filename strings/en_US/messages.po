@@ -3340,6 +3340,24 @@ msgstr "{{ numMentors }} Mentors"
 msgid "Help Center"
 msgstr "Help Center"
 
+msgid "All your events will be visible on your Dojo page"
+msgstr "All your events will be visible on your Dojo page"
+
+msgid "Connect"
+msgstr "Connect"
+
+msgid "Reconnect"
+msgstr "Reconnect"
+
+msgid "Disconnect"
+msgstr "Disconnect"
+
+msgid "Your Eventbrite account has been disconnected"
+msgstr "Your Eventbrite account has been disconnected"
+
+msgid "Your Eventbrite account has been successfully connected"
+msgstr "Your Eventbrite account has been successfully connected"
+
 msgid "Your ticket request for %1$s is pending approval"
 msgstr "Your ticket request for %1$s is pending approval"
 
