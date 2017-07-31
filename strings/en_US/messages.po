@@ -3408,3 +3408,30 @@ msgid "A ticket for your child %1s for the below event has been cancelled."
 msgid_plural "Tickets for your children %1s for the below event have been cancelled."
 msgstr[0] "A ticket for your child %1s for the below event has been cancelled."
 msgstr[1] "Tickets for your children %1s for the below event have been cancelled."
+
+msgid "Tickets not released yet"
+msgstr "Tickets not released yet"
+
+msgid "Release date"
+msgstr "Release date"
+
+msgid "Release time"
+msgstr "Release time"
+
+msgid "Release date"
+msgstr "Release date"
+
+msgid "Ticket release"
+msgstr "Ticket release"
+
+msgid "Tickets have been released"
+msgstr "Tickets have been released"
+
+msgid "Tick this box to choose a time to release your tickets."
+msgstr "Tick this box to choose a time to release your tickets."
+
+msgid "Please enter a valid release date and time"
+msgstr "Please enter a valid release date and time"
+
+msgid "Invalid time for the selected date"
+msgstr "Invalid time for the selected date"
