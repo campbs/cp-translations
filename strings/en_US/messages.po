@@ -519,9 +519,6 @@ msgstr "All Dojos are independent, autonomous, community groups set up to inspir
 msgid "We commit to inspiring and supporting young people to learn how to create technology"
 msgstr "We commit to inspiring and supporting young people to learn how to create technology"
 
-msgid "We commit to inspiring and supporting young people to learn how to create technology"
-msgstr "We commit to inspiring and supporting young people to learn how to create technology"
-
 msgid "We commit to the highest possible standards of child protection in our jurisdiction"
 msgstr "We commit to the highest possible standards of child protection in our jurisdiction"
 
