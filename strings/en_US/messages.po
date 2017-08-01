@@ -3582,3 +3582,9 @@ msgstr "Created on {{ date }}"
 
 msgid "Last updated on {{ date }}"
 msgstr "Last updated on {{ date }}"
+
+msgid "Manage Users"
+msgstr "Manage Users"
+
+msgid "Manage Events"
+msgstr "Manage Events"
