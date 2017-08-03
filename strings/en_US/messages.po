@@ -3662,7 +3662,7 @@ msgid "Telephone number is not valid"
 msgstr "Telephone number is not valid"
 
 msgid "(optional)"
-msgid "(optional)"
+msgstr "(optional)"
 
 msgid "Tell us your skills"
 msgstr "Tell us your skills"
@@ -3767,10 +3767,10 @@ msgid "Second"
 msgid "Second"
 
 msgid "Third"
-msgid "Third"
+msgstr "Third"
 
 msgid "Fourth"
-msgid "Fourth"
+msgstr "Fourth"
 
 msgid "The venue is where the Dojo takes place."
 msgstr "The venue is where the Dojo takes place."
