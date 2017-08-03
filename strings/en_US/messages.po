@@ -3767,7 +3767,7 @@ msgid "Monthly"
 msgstr "Monthly"
 
 msgid "Second"
-msgid "Second"
+msgstr "Second"
 
 msgid "Third"
 msgstr "Third"
@@ -3872,7 +3872,7 @@ msgid "Your Dojo will grow and it’s always good to have extra hands."
 msgstr "Your Dojo will grow and it’s always good to have extra hands."
 
 msgid "You can find more tips on finding volunteers <a target=\"_blank\" href=\"https://hwf.zendesk.com/hc/en-us/articles/115003582283\">here.</a>"
-msgid "You can find more tips on finding volunteers <a target=\"_blank\" href=\"https://hwf.zendesk.com/hc/en-us/articles/115003582283\">here.</a>"
+msgstr "You can find more tips on finding volunteers <a target=\"_blank\" href=\"https://hwf.zendesk.com/hc/en-us/articles/115003582283\">here.</a>"
 
 msgid "Youth/community workers"
 msgstr "Youth/community workers"
