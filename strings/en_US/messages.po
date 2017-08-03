@@ -3580,6 +3580,15 @@ msgstr "Manage Users"
 msgid "Manage Events"
 msgstr "Manage Events"
 
+msgid "This is a Private Dojo"
+msgstr "This is a Private Dojo"
+
+msgid "Private Dojos are by invite only or for specific people who are members of an organisation or school. The general public should not contact to attend this Dojo."
+msgstr "Private Dojos are by invite only or for specific people who are members of an organisation or school. The general public should not contact to attend this Dojo."
+
+msgid "To learn more please email {email}"
+msgstr "To learn more please email {email}"
+
 msgid "Mondays"
 msgstr "Mondays"
 
