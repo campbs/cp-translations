@@ -1488,9 +1488,6 @@ msgstr "Approve"
 msgid "Error updating applications"
 msgstr "Error updating applications"
 
-msgid "Sunday"
-msgstr "Sunday"
-
 msgid "Monday"
 msgstr "Monday"
 
@@ -1508,6 +1505,9 @@ msgstr "Friday"
 
 msgid "Saturday"
 msgstr "Saturday"
+
+msgid "Sunday"
+msgstr "Sunday"
 
 msgid "Applications successfully updated"
 msgstr "Applications successfully updated"
@@ -3588,3 +3588,45 @@ msgstr "Manage Users"
 
 msgid "Manage Events"
 msgstr "Manage Events"
+
+msgid "Mondays"
+msgstr "Mondays"
+
+msgid "Tuesdays"
+msgstr "Tuesdays"
+
+msgid "Wednesdays"
+msgstr "Wednesdays"
+
+msgid "Thursdays"
+msgstr "Thursdays"
+
+msgid "Fridays"
+msgstr "Fridays"
+
+msgid "Saturdays"
+msgstr "Saturdays"
+
+msgid "Sundays"
+msgstr "Sundays"
+
+msgid "{day} {startTime} - {endTime}, Weekly"
+msgstr "{day} {startTime} - {endTime}, Weekly"
+
+msgid "{day} {startTime} - {endTime}, Every two weeks"
+msgstr "{day} {startTime} - {endTime}, Every two weeks"
+
+msgid "{day} {startTime} - {endTime}, Monthly"
+msgstr "{day} {startTime} - {endTime}, Monthly"
+
+msgid "{nth} {day} of the month, {startTime} - {endTime}"
+msgstr "{nth} {day} of the month, {startTime} - {endTime}"
+
+msgid "Second"
+msgstr "Second"
+
+msgid "Third"
+msgstr "Third"
+
+msgid "Fourth"
+msgstr "Fourth"
