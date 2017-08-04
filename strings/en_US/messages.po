@@ -405,7 +405,7 @@ msgstr "Please list any relevant technical experience."
 msgid "Technical Experience is empty"
 msgstr "Technical Experience is empty"
 
-msgid "How did you hear about CoderDojo"
+msgid "How did you hear about CoderDojo?"
 msgstr "How did you hear about CoderDojo?"
 
 msgid "Social"
@@ -1890,8 +1890,8 @@ msgstr "Please add a comment to let us know the situation with public liability 
 msgid "If your Dojo takes place in a corporate office, school or library it is likely that the existing public liability insurance covers the Dojo. Make sure you check this with the venue host in advance of your first session. If it doesn’t, ask the venue to sponsor the cost of adding it to their policy."
 msgstr "If your Dojo takes place in a corporate office, school or library it is likely that the existing public liability insurance covers the Dojo. Make sure you check this with the venue host in advance of your first session. If it doesn’t, ask the venue to sponsor the cost of adding it to their policy."
 
-msgid "If you build it they will come! Pick a date for your first Dojo session and start working towards it. Dojos can run weekly, once every two weeks or monthly. They can be run on weekdays or weekends it all depends on what suits your community."
-msgstr "If you build it they will come! Pick a date for your first Dojo session and start working towards it. Dojos can run weekly, once every two weeks or monthly. They can be run on weekdays or weekends it all depends on what suits your community."
+msgid "If you build it they will come! Pick a date for your first Dojo session and start working towards it. Dojos can run weekly, bi-weekly or monthly. They can be run on weekdays or weekends it all depends on what suits your community."
+msgstr "If you build it they will come! Pick a date for your first Dojo session and start working towards it. Dojos can run weekly, bi-weekly or monthly. They can be run on weekdays or weekends it all depends on what suits your community."
 
 msgid "Embodying the Ethos"
 msgstr "Embodying the Ethos"
@@ -3415,15 +3415,6 @@ msgstr "Manage Dojos"
 msgid "Toggle navigation"
 msgstr "Toggle navigation"
 
-msgid "My Account"
-msgstr "My Account"
-
-msgid "My Profile"
-msgstr "My Profile"
-
-msgid "E-learning"
-msgstr "E-learning"
-
 msgid "Details"
 msgstr "Details"
 
@@ -3469,9 +3460,6 @@ msgstr "Year"
 msgid "Email address (optional)"
 msgstr "Email address (optional)"
 
-msgid "Gender"
-msgstr "Gender"
-
 msgid "Male"
 msgstr "Male"
 
@@ -3483,9 +3471,6 @@ msgstr "Prefer not to answer"
 
 msgid "Book Event"
 msgstr "Book Event"
-
-msgid "Location"
-msgstr "Location"
 
 msgid "You will need your parent to carry out the registration."
 msgstr "You will need your parent to carry out the registration."
@@ -3559,8 +3544,8 @@ msgstr "You are now subscribed to {dojoName} dojo"
 msgid "You can log in and find events hosted by this dojo in {openLink}My Dojos{closeLink}"
 msgstr "You can log in and find events hosted by this dojo in {openLink}My Dojos{closeLink}"
 
-msgid "You will be notified about future events hosted by this dojo"
-msgstr "You will be notified about future events hosted by this dojo"
+msgid "You will be notified about future events hosted by this Dojo"
+msgstr "You will be notified about future events hosted by this Dojo"
 
 msgid "Event Details"
 msgstr "Event Details"
@@ -3646,9 +3631,6 @@ msgstr "As a Champion you care about your community enough to take the initiativ
 msgid "First name"
 msgstr "First name"
 
-msgid "Last name"
-msgstr "Last name"
-
 msgid "Personal/Work email address"
 msgstr "Personal/Work email address"
 
@@ -3663,9 +3645,6 @@ msgstr "Parent Name"
 
 msgid "Home address"
 msgstr "Home address"
-
-msgid "Phone number"
-msgstr "Phone number"
 
 msgid "Telephone number is not valid"
 msgstr "Telephone number is not valid"
@@ -3696,9 +3675,6 @@ msgstr "Slightly"
 
 msgid "Very"
 msgstr "Very"
-
-msgid "How did you hear about CoderDojo?"
-msgstr "How did you hear about CoderDojo?"
 
 msgid "Media (newspaper/radio)"
 msgstr "Media (newspaper/radio)"
@@ -3771,15 +3747,6 @@ msgstr "Every two weeks"
 
 msgid "Monthly"
 msgstr "Monthly"
-
-msgid "Second"
-msgstr "Second"
-
-msgid "Third"
-msgstr "Third"
-
-msgid "Fourth"
-msgstr "Fourth"
 
 msgid "The venue is where the Dojo takes place."
 msgstr "The venue is where the Dojo takes place."
@@ -3948,9 +3915,6 @@ msgstr "Your application is incomplete"
 
 msgid "Contact us if you have a question"
 msgstr "Contact us if you have a question"
-
-msgid "Last updated on {{ date }}"
-msgstr "Last updated on {{ date }}"
 
 msgid "Started on {{ date }}"
 msgstr "Started on {{ date }}"
