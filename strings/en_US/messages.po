@@ -3936,3 +3936,9 @@ msgstr "Continue your application"
 
 msgid "Provide only your username (without ending slash)"
 msgstr "Provide only your username (without ending slash)"
+
+msgid "This is a recurring event"
+msgstr "This is a recurring event"
+
+msgid "{recurringFrequencyInfo} at {formattedStartTime} - {formattedEndTime}, from {formattedFirstDate} to {formattedLastDate}"
+msgstr "{recurringFrequencyInfo} at {formattedStartTime} - {formattedEndTime}, from {formattedFirstDate} to {formattedLastDate}"
