@@ -3942,3 +3942,6 @@ msgstr "This is a recurring event"
 
 msgid "{recurringFrequencyInfo} at {formattedStartTime} - {formattedEndTime}, from {formattedFirstDate} to {formattedLastDate}"
 msgstr "{recurringFrequencyInfo} at {formattedStartTime} - {formattedEndTime}, from {formattedFirstDate} to {formattedLastDate}"
+
+msgid "Don't see a Dojo in your area?"
+msgstr "Don't see a Dojo in your area?"
