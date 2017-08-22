@@ -3953,3 +3953,6 @@ msgstr "{total} Dojos found near {query}"
 
 msgid "{total} Dojos found"
 msgstr "{total} Dojos found"
+
+msgid "you"
+msgstr "you"
