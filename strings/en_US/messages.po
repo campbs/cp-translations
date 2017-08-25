@@ -3945,3 +3945,6 @@ msgstr "{recurringFrequencyInfo} at {formattedStartTime} - {formattedEndTime}, f
 
 msgid "Don't see a Dojo in your area?"
 msgstr "Don't see a Dojo in your area?"
+
+msgid "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
+msgstr "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
