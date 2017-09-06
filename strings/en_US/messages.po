@@ -3946,5 +3946,24 @@ msgstr "{recurringFrequencyInfo} at {formattedStartTime} - {formattedEndTime}, f
 msgid "Don't see a Dojo in your area?"
 msgstr "Don't see a Dojo in your area?"
 
+msgid "Volunteer at this Dojo"
+msgstr "Volunteer at this Dojo"
+
+msgid "Mentors help the Ninjas with programming, while also helping the Champion run the Dojo efficiently"
+msgstr "Mentors help the Ninjas with programming, while also helping the Champion run the Dojo efficiently"
+
+msgid "Volunteer as Mentor"
+msgstr "Volunteer as Mentor"
+
+msgid "This Dojo needs Mentors!"
+msgstr "This Dojo needs Mentors!"
+
+msgid "The Champion handles every aspect of running the Dojo - from handing logistics to ticketing, to awarding badges to the Ninjas"
+msgstr "The Champion handles every aspect of running the Dojo - from handing logistics to ticketing, to awarding badges to the Ninjas"
+
+msgid "Volunteer as Champion"
+msgstr "Volunteer as Champion"
+
 msgid "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
 msgstr "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
+
