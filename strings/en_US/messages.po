@@ -3511,9 +3511,6 @@ msgstr "Unfortunately there are no dojos in your area at the moment. Please sear
 msgid "No Upcoming Events"
 msgstr "No Upcoming Events"
 
-msgid "There are no upcoming events planned for this Dojo. Please email {email} if you have any questions."
-msgstr "There are no upcoming events planned for this Dojo. Please email {email} if you have any questions."
-
 msgid "Show Map"
 msgstr "Show Map"
 
@@ -3967,3 +3964,14 @@ msgstr "Volunteer as Champion"
 msgid "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
 msgstr "Showing {firstOnPage} to {lastOnPage} of {total} Dojos"
 
+msgid "There are no upcoming events planned for this Dojo."
+msgstr "There are no upcoming events planned for this Dojo."
+
+msgid "Please join this Dojo for updates or email {email}"
+msgstr "Please join this Dojo for updates or email {email}"
+
+msgid "Please email {email} if you have any questions."
+msgstr "Please email {email} if you have any questions."
+
+msgid "Congratulations, you have now joined the Dojo."
+msgstr "Congratulations, you have now joined the Dojo."
